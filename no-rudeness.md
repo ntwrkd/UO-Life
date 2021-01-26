@@ -1,11 +1,8 @@
 Looting
 When out playing, it is requested that you do NOT loot other players corpses unless asked to do so by that player.
 
-We do not tolerate the harassment of other players via. means outside of the forums, Discord or in-game. If you are involved in an active effort in harassing another player via. social media or other outside means, you will be removed from the game community.
-
 Cursing, Complaining, & Uncalled for behavior (unless in roleplay scene)
-This ones pretty simple.... cursing and whining isn't tolerated. If you wish you may sit in your house until you're blue in the face cursing the fates that lagged you to death, etc. You may be rude to the McDonald's girl that didn't add cheese to your burger.
-You will not be permitted to fill a journal with chat messages that are found uncalled for. If you feel the need to spew filth use the private messaging or party systems and only to others that will tolerate such talk.
+This ones pretty simple.... cursing and whining isn't tolerated. If you wish you may sit in your house until you're blue in the face cursing the fates that lagged you to death, etc. You will not be permitted to fill a journal with chat messages that are found uncalled for. If you feel the need to spew filth use the private messaging or party systems and only to others that will tolerate such talk.
 
 Paging system/ Problems on shard
 Players that find problems or needing help from staff are asked to send PM on chat system. If no staff is on at the time that you need help you may be able to use the " help stuck " option if other players can't help you.
