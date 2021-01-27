@@ -11,3 +11,5 @@ All of the classic lands will be available along with the quests and new quests 
 Some of the things that set this shard apart from the others is that gold doesn't have the value you'd expect. Tokens are the new currency and a exchange process is underway to convert gold coins to tokens. There will still be things you can buy with gold, it doesn't hold the value you may expect. A person may request you to go perform a quest or go mine and get ingots or seek out something in lieu of gold.
 
 Welcome to UO Life!
+
+You will need the following to connect https://www.classicuo.eu/, http://web.cdn.eamythic.com/us/uo/installers/20120309/UOClassicSetup_7_0_24_0.exe 
