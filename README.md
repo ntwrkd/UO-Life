@@ -12,4 +12,4 @@ Some of the things that set this shard apart from the others is that gold doesn'
 
 Welcome to UO Life!
 
-You will need the following to connect https://www.classicuo.eu/, http://web.cdn.eamythic.com/us/uo/installers/20120309/UOClassicSetup_7_0_24_0.exe 
+You will need the following to connect https://www.classicuo.eu/, http://web.cdn.eamythic.com/us/uo/installers/20120309/UOClassicSetup_7_0_24_0.exe and https://github.com/ntwrkd/UO-Life/blob/main/dll.zip
