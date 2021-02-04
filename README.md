@@ -2,6 +2,8 @@
 Your guide to UO Life
 Welcome, and thank you for stopping by to see what is offered here. 
 
+Here is how you connect. For now auto account creation is turned on. uolife.ddns.net port 2593
+
 First, lets talk about the environment and what can be expected. This is a mature shard, and there may be grit, graphic scenes, or other adult activities. If you simply want to play you're welcome to be here. If you see people in roleplay or a scene, don't just run over them with a horse or just start talking and interrupting. Wait for it to end. We do have tools for you to private message a player.
 
 Here roleplay is not only encouraged, it is rewarded! Not everyone is a expert at roleplay, though it is asked that you at least try. I also understand eveyone can't just roleplay 24/7 either.
